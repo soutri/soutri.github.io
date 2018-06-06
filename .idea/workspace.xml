@@ -20,16 +20,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="73" column="437" selection-start-line="73" selection-start-column="437" selection-end-line="73" selection-end-column="437" />
+            <state relative-caret-position="34">
+              <caret line="207" column="17" lean-forward="true" selection-start-line="207" selection-start-column="17" selection-end-line="207" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="profile.jpg" pinned="false" current-in-tab="true">
+      <file leaf-file-name="profile.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/img/profile.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
@@ -165,12 +165,12 @@
       <option name="presentableId" value="Default" />
       <updated>1528294752947</updated>
       <workItem from="1528294763612" duration="995000" />
-      <workItem from="1528295969652" duration="1817000" />
+      <workItem from="1528295969652" duration="2693000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2812000" />
+    <option name="totallyTimeSpent" value="3688000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -233,15 +233,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="73" column="437" selection-start-line="73" selection-start-column="437" selection-end-line="73" selection-end-column="437" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/profile.jpg">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="207" column="17" lean-forward="true" selection-start-line="207" selection-start-column="17" selection-end-line="207" selection-end-column="17" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
