@@ -23,8 +23,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="67" column="33" lean-forward="true" selection-start-line="67" selection-start-column="33" selection-end-line="67" selection-end-column="33" />
+            <state relative-caret-position="386">
+              <caret line="73" column="437" selection-start-line="73" selection-start-column="437" selection-end-line="73" selection-end-column="437" />
             </state>
           </provider>
         </entry>
@@ -155,15 +155,16 @@
       <option name="presentableId" value="Default" />
       <updated>1528294752947</updated>
       <workItem from="1528294763612" duration="995000" />
-      <workItem from="1528295969652" duration="229000" />
+      <workItem from="1528295969652" duration="486000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1224000" />
+    <option name="totallyTimeSpent" value="1481000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="8" y="20" width="1346" height="725" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -224,8 +225,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="67" column="33" lean-forward="true" selection-start-line="67" selection-start-column="33" selection-end-line="67" selection-end-column="33" />
+        <state relative-caret-position="386">
+          <caret line="73" column="437" selection-start-line="73" selection-start-column="437" selection-end-line="73" selection-end-column="437" />
         </state>
       </provider>
     </entry>
