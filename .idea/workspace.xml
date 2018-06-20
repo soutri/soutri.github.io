@@ -26,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="76" column="51" selection-start-line="76" selection-start-column="51" selection-end-line="76" selection-end-column="51" />
+              <caret line="76" column="132" selection-start-line="76" selection-start-column="132" selection-end-line="76" selection-end-column="132" />
             </state>
           </provider>
         </entry>
@@ -70,7 +70,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="6" />
     <option name="y" value="20" />
     <option name="width" value="1348" />
@@ -181,12 +181,12 @@
       <workItem from="1528451354449" duration="907000" />
       <workItem from="1528453910237" duration="11658000" />
       <workItem from="1529437928257" duration="3853000" />
-      <workItem from="1529519618953" duration="7951000" />
+      <workItem from="1529519618953" duration="8074000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50170000" />
+    <option name="totallyTimeSpent" value="50293000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -373,7 +373,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="76" column="51" selection-start-line="76" selection-start-column="51" selection-end-line="76" selection-end-column="51" />
+          <caret line="76" column="132" selection-start-line="76" selection-start-column="132" selection-end-line="76" selection-end-column="132" />
         </state>
       </provider>
     </entry>
