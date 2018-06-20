@@ -25,8 +25,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="76" column="82" lean-forward="true" selection-start-line="76" selection-start-column="82" selection-end-line="76" selection-end-column="82" />
+            <state relative-caret-position="323">
+              <caret line="76" column="51" selection-start-line="76" selection-start-column="51" selection-end-line="76" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -89,6 +89,11 @@
             <path>
               <item name="soutri.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="soutri.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="soutri.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="soutri.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -176,15 +181,15 @@
       <workItem from="1528451354449" duration="907000" />
       <workItem from="1528453910237" duration="11658000" />
       <workItem from="1529437928257" duration="3853000" />
-      <workItem from="1529519618953" duration="7356000" />
+      <workItem from="1529519618953" duration="7951000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49575000" />
+    <option name="totallyTimeSpent" value="50170000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -200,7 +205,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.084635414" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.084635414" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -367,8 +372,8 @@
     <entry file="file://D:/abhinuvpitale.github.io-master/abhinuvpitale.github.io-master/index.html" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="76" column="82" lean-forward="true" selection-start-line="76" selection-start-column="82" selection-end-line="76" selection-end-column="82" />
+        <state relative-caret-position="323">
+          <caret line="76" column="51" selection-start-line="76" selection-start-column="51" selection-end-line="76" selection-end-column="51" />
         </state>
       </provider>
     </entry>
