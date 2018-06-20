@@ -25,8 +25,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="299" column="130" selection-start-line="299" selection-start-column="130" selection-end-line="299" selection-end-column="130" />
+            <state relative-caret-position="425">
+              <caret line="76" column="82" lean-forward="true" selection-start-line="76" selection-start-column="82" selection-end-line="76" selection-end-column="82" />
             </state>
           </provider>
         </entry>
@@ -70,7 +70,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="6" />
     <option name="y" value="20" />
     <option name="width" value="1348" />
@@ -176,15 +176,15 @@
       <workItem from="1528451354449" duration="907000" />
       <workItem from="1528453910237" duration="11658000" />
       <workItem from="1529437928257" duration="3853000" />
-      <workItem from="1529519618953" duration="4530000" />
+      <workItem from="1529519618953" duration="7356000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46749000" />
+    <option name="totallyTimeSpent" value="49575000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -367,8 +367,8 @@
     <entry file="file://D:/abhinuvpitale.github.io-master/abhinuvpitale.github.io-master/index.html" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="299" column="130" selection-start-line="299" selection-start-column="130" selection-end-line="299" selection-end-column="130" />
+        <state relative-caret-position="425">
+          <caret line="76" column="82" lean-forward="true" selection-start-line="76" selection-start-column="82" selection-end-line="76" selection-end-column="82" />
         </state>
       </provider>
     </entry>
