@@ -26,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="683">
-              <caret line="326" lean-forward="true" selection-start-line="326" selection-end-line="326" />
+              <caret line="326" selection-start-line="326" selection-end-line="326" />
             </state>
           </provider>
         </entry>
@@ -70,10 +70,10 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="6" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="5" />
     <option name="y" value="20" />
-    <option name="width" value="1348" />
+    <option name="width" value="1349" />
     <option name="height" value="725" />
   </component>
   <component name="ProjectView">
@@ -81,8 +81,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,7 +94,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -176,16 +176,16 @@
       <workItem from="1528451354449" duration="907000" />
       <workItem from="1528453910237" duration="11658000" />
       <workItem from="1529437928257" duration="3853000" />
-      <workItem from="1529519618953" duration="10896000" />
+      <workItem from="1529519618953" duration="12311000" />
+      <workItem from="1529597840519" duration="922000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53115000" />
+    <option name="totallyTimeSpent" value="55452000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -223,6 +223,27 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/resume.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2499">
+          <caret line="147" selection-start-line="147" selection-end-line="147" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48467">
+          <caret line="2851" selection-start-line="2851" selection-end-line="2851" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5542">
+          <caret line="326" lean-forward="true" selection-start-line="326" selection-end-line="326" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/resume.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2499">
@@ -368,7 +389,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="683">
-          <caret line="326" lean-forward="true" selection-start-line="326" selection-end-line="326" />
+          <caret line="326" selection-start-line="326" selection-end-line="326" />
         </state>
       </provider>
     </entry>
