@@ -16,7 +16,7 @@
       <file leaf-file-name="resume.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/resume.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2499">
+            <state>
               <caret line="147" selection-start-line="147" selection-end-line="147" />
             </state>
           </provider>
@@ -26,16 +26,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="465">
-              <caret line="306" column="38" selection-start-line="306" selection-start-column="38" selection-end-line="306" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package-lock.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48467">
-              <caret line="2851" selection-start-line="2851" selection-end-line="2851" />
+              <caret line="306" column="36" selection-start-line="306" selection-start-column="36" selection-end-line="306" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -179,12 +170,12 @@
       <workItem from="1529519618953" duration="12311000" />
       <workItem from="1529597840519" duration="922000" />
       <workItem from="1529895911154" duration="1194000" />
-      <workItem from="1530594389366" duration="528000" />
+      <workItem from="1530594389366" duration="617000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57174000" />
+    <option name="totallyTimeSpent" value="57263000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -203,7 +194,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.039713543" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14453125" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -410,7 +401,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/resume.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2499">
+        <state>
           <caret line="147" selection-start-line="147" selection-end-line="147" />
         </state>
       </provider>
@@ -423,18 +414,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/abhinuvpitale.github.io-master/abhinuvpitale.github.io-master/index.html" />
+    <entry file="file://$PROJECT_DIR$/img/20140308_154800-ANIMATION.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/cruise.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48467">
+        <state relative-caret-position="17">
           <caret line="2851" selection-start-line="2851" selection-end-line="2851" />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/abhinuvpitale.github.io-master/abhinuvpitale.github.io-master/index.html" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
-          <caret line="306" column="38" selection-start-line="306" selection-start-column="38" selection-end-line="306" selection-end-column="38" />
+          <caret line="306" column="36" selection-start-line="306" selection-start-column="36" selection-end-line="306" selection-end-column="36" />
         </state>
       </provider>
     </entry>
