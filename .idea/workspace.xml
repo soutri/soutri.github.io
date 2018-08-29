@@ -26,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="73" column="46" selection-start-line="73" selection-start-column="46" selection-end-line="73" selection-end-column="46" />
+            <state relative-caret-position="459">
+              <caret line="117" column="129" selection-start-line="117" selection-start-column="129" selection-end-line="117" selection-end-column="129" />
             </state>
           </provider>
         </entry>
@@ -62,7 +62,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-135" />
     <option name="width" value="1080" />
     <option name="height" value="580" />
@@ -81,6 +81,11 @@
             <path>
               <item name="soutri.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="soutri.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="soutri.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="soutri.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -176,12 +181,15 @@
       <workItem from="1531848390028" duration="599000" />
       <workItem from="1531933884296" duration="2327000" />
       <workItem from="1532886574578" duration="1482000" />
-      <workItem from="1533012030624" duration="1281000" />
+      <workItem from="1533012030624" duration="2021000" />
+      <workItem from="1533660661849" duration="93000" />
+      <workItem from="1534311039931" duration="409000" />
+      <workItem from="1535580316461" duration="2337000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66458000" />
+    <option name="totallyTimeSpent" value="70037000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
@@ -562,8 +570,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="73" column="46" selection-start-line="73" selection-start-column="46" selection-end-line="73" selection-end-column="46" />
+        <state relative-caret-position="459">
+          <caret line="117" column="129" selection-start-line="117" selection-start-column="129" selection-end-line="117" selection-end-column="129" />
         </state>
       </provider>
     </entry>
